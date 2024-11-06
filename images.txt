@@ -6,6 +6,6 @@ ollama/ollama:latest
 elasticsearch:8.15.0
 elasticsearch:7.17.23
 logstash:8.15.1
-yidadaa/chatgpt-next-web
+yidadaa/chatgpt-next-web:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
