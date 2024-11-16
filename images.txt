@@ -1,15 +1,15 @@
 nginx
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-ollama/ollama:latest
-elasticsearch:8.15.0
-elasticsearch:7.17.23
-logstash:8.15.1
-yidadaa/chatgpt-next-web:latest
-nginx:latest
+#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+#xhofe/alist:latest
+#ollama/ollama:latest
+#elasticsearch:8.15.0
+#elasticsearch:7.17.23
+#logstash:8.15.1
+#yidadaa/chatgpt-next-web:latest
+#nginx:latest
 hyperf/hyperf:8.1-alpine-v3.18-swoole
 mysql:5.7
 rabbitmq:management
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+#--platform=linux/arm64 xiaoyaliu/alist
