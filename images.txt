@@ -6,6 +6,7 @@
 #elasticsearch:7.17.23
 #logstash:8.15.1
 #yidadaa/chatgpt-next-web:latest
+registry.k8s.io/metrics-server/metrics-server:v0.7.2
 kicbase/echo-server:1.0
 jenkins/jenkins:lts-jdk17
 redis
