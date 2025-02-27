@@ -5,7 +5,7 @@
 #elasticsearch:8.15.0
 #elasticsearch:7.17.23
 #logstash:8.15.1
-yidadaa/chatgpt-next-web:latest
+yidadaa/chatgpt-next-web:v2.16.0
 #gitlab/gitlab-ce:latest
 registry.k8s.io/metrics-server/metrics-server:v0.7.2
 kicbase/echo-server:1.0
