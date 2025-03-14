@@ -18,3 +18,5 @@ rabbitmq:management
 hoppscotch/hoppscotch
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+nacos/nacos-server:v2.5.1
+nacos/nacos-server:v2.2.3
