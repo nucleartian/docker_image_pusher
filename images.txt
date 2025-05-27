@@ -1,4 +1,5 @@
 #支持私库
+webysther/hoppscotch:2023.4.7
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
 #ollama/ollama:latest
@@ -25,3 +26,4 @@ nacos/nacos-server:v2.5.1
 nacos/nacos-mysql:5.7
 nginx/nginx-ingress:latest
 openzipkin/zipkin
+
