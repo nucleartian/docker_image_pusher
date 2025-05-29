@@ -1,4 +1,8 @@
 #支持私库
+mongo:5.0
+mongo:4.0
+rocket.chat:7
+rocket.chat:6
 lsiobase/ubuntu:jammy
 webysther/hoppscotch:2023.4.8
 webysther/hoppscotch:2023.4.7
