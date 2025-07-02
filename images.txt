@@ -1,4 +1,7 @@
 #支持私库
+alpine:3.22.0
+golang:1.23
+golang:1.24
 mongo:5.0
 mongo:4.0
 rocket.chat:7
